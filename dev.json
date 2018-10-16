@@ -1,8 +1,8 @@
 {
     "channel": "dev",
     "supervisor": "1.0.0.dev-86",
-    "default": {
-    	"csmserver": "3.6.0.dev-209"
+    "csmserver": {
+    	"default": "3.6.0.dev-209"
     },
     "database": "0.0.6"
 }
